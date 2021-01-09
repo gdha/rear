@@ -197,6 +197,8 @@ To use Relax-and-Recover you always call the main script '/usr/sbin/rear':
 
 ----
 # rear help
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgdha%2Frear.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgdha%2Frear?ref=badge_shield)
+
 
 Usage: rear [-h|--help] [-V|--version] [-dsSv] [-D|--debugscripts SET] [-c DIR] [-C CONFIG] [-r KERNEL] [--] COMMAND [ARGS...]
 
@@ -259,3 +261,7 @@ REFERENCES
 * http://relax-and-recover.org/events/[Relax-and-Recover Events]
 * https://github.com/rear/rear/issues[Relax-and-Recover Issues]
 * http://relax-and-recover.org/support/sponsors[Relax-and-Recover Sponsoring]
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgdha%2Frear.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgdha%2Frear?ref=badge_large)
